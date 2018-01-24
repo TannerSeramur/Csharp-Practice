@@ -1,0 +1,5 @@
+/Users/TannerSeramur/Downloads/PCE_02/bin/Debug/PCE_02.exe
+/Users/TannerSeramur/Downloads/PCE_02/bin/Debug/PCE_02.pdb
+/Users/TannerSeramur/Downloads/PCE_02/obj/Debug/PCE_02.csproj.CoreCompileInputs.cache
+/Users/TannerSeramur/Downloads/PCE_02/obj/Debug/PCE_02.exe
+/Users/TannerSeramur/Downloads/PCE_02/obj/Debug/PCE_02.pdb
